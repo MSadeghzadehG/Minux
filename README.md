@@ -6,7 +6,7 @@ Dream =))
 * #### Computer Architecture: learn from 'Operating Systems by William Stallings'  
 
 I. Background
-- [x] 1. Computer System Overview
+1. Computer System Overview
 
 - [x] 1.1. Basic Elements
 
