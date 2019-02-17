@@ -1,9 +1,10 @@
 # Minux
 Dream =))
 ## !
-* #### Desktop Design: simple like Windows,Beautiful like OSX - comfy?
 
+### Learning
 * #### Computer Architecture: learn from 'Operating Systems by William Stallings'  
+https://www.pearson.com/us/higher-education/program/Stallings-Operating-Systems-Internals-and-Design-Principles-9th-Edition/PGM1262980.html?tab=contents
 
 I. Background
 1. Computer System Overview
@@ -16,11 +17,11 @@ I. Background
 
 - [x] 1.4. Interrupts
 
-- [ ] 1.5. The Memory Hierarchy
+- [x] 1.5. The Memory Hierarchy
 
-- [ ] 1.6. Cache Memory
+- [x] 1.6. Cache Memory
 
-- [ ] 1.7. Direct Memory Access
+- [x] 1.7. Direct Memory Access
 
 - [ ] 1.8. Multiprocessor and Multicore Organization
 
@@ -29,3 +30,12 @@ I. Background
 - [ ] 1A. Performance Characteristics of Two-Level Memories
 
 * #### OS kernel: learn from 'Operating System Concepts by Avi Silberschatz'
+
+### Check existing works and articles
+https://www.phoronix.com/
+
+### Find criteria of performance
+* watch out difference between OS and Computer performance
+
+### notes
+* #### Desktop Design: simple like Windows,Beautiful like OSX - comfy?
