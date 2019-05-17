@@ -2,6 +2,20 @@
 Dream =))
 ## !
 
+### 
+we have two approaches for configuring kernel based on hardware:
+1. scan the system and decide based on detected information from hardware. this decision may be taken by a trained intelligent machine.
+2. create a lookup table and have a suggested configuration based on hardware details.
+
+#### deciding base
+1. based on all board information: how to get this information(search about JTAG)
+2. based on CPU information: Memory Management Unit, Memory Hierarchy(affects on the miss and hit percentage), Memory Type(affects on miss clock penalty)
+
+#### what we need to develop
+1. a compiler that compiles codes according to Memory design
+2. change kernel for the size of Memory access
+
+
 ### Learning
 * #### Computer Architecture: learn from 'Operating Systems by William Stallings'  
 https://www.pearson.com/us/higher-education/program/Stallings-Operating-Systems-Internals-and-Design-Principles-9th-Edition/PGM1262980.html?tab=contents
