@@ -1,5 +1,7 @@
 # Minux
 Dream =))
+Minux  is  a  recommender  system  that  creates  an  optimized  kernel  according  to  theusers  hardware  configuration,  to  provide  better  performance.   Now  Im  studying  tomatch kernel requests to memory specifications.
+
 ## !
 
 ### 
