@@ -4,6 +4,11 @@ Minux  is  a  recommender  system  that  creates  an  optimized  kernel  accordi
 
 ## !
 
+
+### 
+test and profile one code in macos and ubuntu in the same situation and check the result. now I'm using macos high sierra and ubuntu 16.04 on parallels on Macbook pro MJLT2. looking for profiler... 
+
+
 ### 
 we have two approaches for configuring kernel based on hardware:
 1. scan the system and decide based on detected information from hardware. this decision may be taken by a trained intelligent machine.
